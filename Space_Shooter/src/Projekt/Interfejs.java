@@ -23,3 +23,4 @@ public class Interfejs extends JFrame {
 	}
 
 }
+// o boze chybadziala
